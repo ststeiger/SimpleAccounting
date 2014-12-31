@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Contabilità>
+    <DATA>2014-01-31T00:00:00+01:00</DATA>
+    <DETTAGLIATO>Mese Gennaio</DETTAGLIATO>
+    <ENTRATA>123</ENTRATA>
+    <USCITA>456</USCITA>
+  </Contabilità>
+  <Contabilità>
+    <DATA>2014-02-28T00:00:00+01:00</DATA>
+    <DETTAGLIATO>Mese Febbraio</DETTAGLIATO>
+    <ENTRATA>123</ENTRATA>
+    <USCITA>456</USCITA>
+  </Contabilità>
+  <Contabilità>
+    <DATA>2014-03-31T00:00:00+02:00</DATA>
+    <DETTAGLIATO>Mese Marzo</DETTAGLIATO>
+    <ENTRATA>123</ENTRATA>
+    <USCITA>456</USCITA>
+  </Contabilità>
+  <Contabilità>
+    <DATA>2014-04-30T00:00:00+02:00</DATA>
+    <DETTAGLIATO>Mese Aprile</DETTAGLIATO>
+    <ENTRATA>123</ENTRATA>
+    <USCITA>456</USCITA>
+  </Contabilità>
+  <Contabilità>
+    <DATA>2014-05-31T00:00:00+02:00</DATA>
+    <DETTAGLIATO>Mese Maggio</DETTAGLIATO>
+    <ENTRATA>123</ENTRATA>
+    <USCITA>456</USCITA>
+  </Contabilità>
+  <Contabilità>
+    <DATA>2014-06-30T00:00:00+02:00</DATA>
+    <DETTAGLIATO>Mese Giugno</DETTAGLIATO>
+    <ENTRATA>123</ENTRATA>
+    <USCITA>456</USCITA>
+  </Contabilità>
+  <Contabilità>
+    <DATA>2014-07-31T00:00:00+02:00</DATA>
+    <DETTAGLIATO>Mese Luglio</DETTAGLIATO>
+    <ENTRATA>123</ENTRATA>
+    <USCITA>456</USCITA>
+  </Contabilità>
+  <Contabilità>
+    <DATA>2014-08-31T00:00:00+02:00</DATA>
+    <DETTAGLIATO>Mese Agosto</DETTAGLIATO>
+    <ENTRATA>123</ENTRATA>
+    <USCITA>456</USCITA>
+  </Contabilità>
+  <Contabilità>
+    <DATA>2014-09-30T00:00:00+02:00</DATA>
+    <DETTAGLIATO>Mese Settembre</DETTAGLIATO>
+    <ENTRATA>123</ENTRATA>
+    <USCITA>456</USCITA>
+  </Contabilità>
+  <Contabilità>
+    <DATA>2014-10-31T00:00:00+01:00</DATA>
+    <DETTAGLIATO>Mese Ottobre</DETTAGLIATO>
+    <ENTRATA>123</ENTRATA>
+    <USCITA>456</USCITA>
+  </Contabilità>
+  <Contabilità>
+    <DATA>2014-11-30T00:00:00+01:00</DATA>
+    <DETTAGLIATO>Mese Novembre</DETTAGLIATO>
+    <ENTRATA>123</ENTRATA>
+    <USCITA>456</USCITA>
+  </Contabilità>
+  <Contabilità>
+    <DATA>2014-12-31T00:00:00+01:00</DATA>
+    <DETTAGLIATO>Mese Dicembre</DETTAGLIATO>
+    <ENTRATA>123</ENTRATA>
+    <USCITA>456</USCITA>
+  </Contabilità>
+</DocumentElement>
